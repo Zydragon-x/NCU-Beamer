@@ -1,5 +1,5 @@
 # NCU-Beamer
-南昌大学 Beamer 模板
+NCU Beamer 模板
 
 具体参考请见代码内注释
 
